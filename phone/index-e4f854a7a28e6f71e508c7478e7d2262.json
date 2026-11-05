@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T10:02:49.593679+09:00",
- "count": 1,
+ "updated_at": "2026-11-05T10:13:11.633870+09:00",
+ "count": 2,
  "items": [
   {
    "name": "🖼 카드 · 완성차 5사 연말 할인 경쟁",
@@ -13,6 +13,15 @@
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1104_3%EB%8B%A8_%EC%99%84%EC%84%B1%EC%B0%A85%EC%82%AC%ED%98%84%EB%8C%80%EC%B0%A8%EA%B8%B0%EC%95%84KGM%EB%A5%B4/card_04.jpg",
    "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1104_3%EB%8B%A8_%EC%99%84%EC%84%B1%EC%B0%A85%EC%82%AC%ED%98%84%EB%8C%80%EC%B0%A8%EA%B8%B0%EC%95%84KGM%EB%A5%B4/card_05.jpg",
    "card_06": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1104_3%EB%8B%A8_%EC%99%84%EC%84%B1%EC%B0%A85%EC%82%AC%ED%98%84%EB%8C%80%EC%B0%A8%EA%B8%B0%EC%95%84KGM%EB%A5%B4/card_06.jpg"
+  },
+  {
+   "name": "🎬 릴스 · BMW 더 뉴 7시리즈 국내 공식 출시",
+   "job": "1105_3단_더뉴BMW7시리즈",
+   "kind": "reel",
+   "caption": "BMW 코리아가 더 뉴 BMW 7시리즈를 국내에 공식 출시합니다.\n\n· 총 4개 모델과 8개 트림으로 구성되며, 가솔린 1종과 순수전기 3종이 먼저 나옵니다.\n· 740 xDrive 판매 가격은 1억 6,190만 원부터 1억 7,920만 원까지입니다.\n· i7 M70 xDrive 판매 가격은 부가세를 포함해 2억 3,500만 원입니다.\n· 퍼스트 에디션 3종은 11월 10일 BMW 샵 온라인에서 한정 판매합니다.\n· BMW에 따르면 디젤과 플러그인 하이브리드, 고성능 모델 등이 합류할 예정입니다.\n· 현행 7세대 7시리즈는 국내 수입 대형 플래그십 세단 가운데 3년 연속 가장 많이 팔렸습니다.\n\n———\n\n출처: 모터그래프\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #BMW #7시리즈 #i7\n",
+   "comment": "영상: BMW Korea 공식 유튜브 「[BMW] THE NEW BMW 7 - A TRIBUTE TO DEDICATION.」 https://www.youtube.com/watch?v=tELPSb6iVkA\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%EB%8D%94%EB%89%B4BMW7%EC%8B%9C%EB%A6%AC%EC%A6%88/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%EB%8D%94%EB%89%B4BMW7%EC%8B%9C%EB%A6%AC%EC%A6%88/cover.jpg"
   }
  ],
  "by_name": {
@@ -27,6 +36,15 @@
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1104_3%EB%8B%A8_%EC%99%84%EC%84%B1%EC%B0%A85%EC%82%AC%ED%98%84%EB%8C%80%EC%B0%A8%EA%B8%B0%EC%95%84KGM%EB%A5%B4/card_04.jpg",
    "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1104_3%EB%8B%A8_%EC%99%84%EC%84%B1%EC%B0%A85%EC%82%AC%ED%98%84%EB%8C%80%EC%B0%A8%EA%B8%B0%EC%95%84KGM%EB%A5%B4/card_05.jpg",
    "card_06": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1104_3%EB%8B%A8_%EC%99%84%EC%84%B1%EC%B0%A85%EC%82%AC%ED%98%84%EB%8C%80%EC%B0%A8%EA%B8%B0%EC%95%84KGM%EB%A5%B4/card_06.jpg"
+  },
+  "🎬 릴스 · BMW 더 뉴 7시리즈 국내 공식 출시": {
+   "name": "🎬 릴스 · BMW 더 뉴 7시리즈 국내 공식 출시",
+   "job": "1105_3단_더뉴BMW7시리즈",
+   "kind": "reel",
+   "caption": "BMW 코리아가 더 뉴 BMW 7시리즈를 국내에 공식 출시합니다.\n\n· 총 4개 모델과 8개 트림으로 구성되며, 가솔린 1종과 순수전기 3종이 먼저 나옵니다.\n· 740 xDrive 판매 가격은 1억 6,190만 원부터 1억 7,920만 원까지입니다.\n· i7 M70 xDrive 판매 가격은 부가세를 포함해 2억 3,500만 원입니다.\n· 퍼스트 에디션 3종은 11월 10일 BMW 샵 온라인에서 한정 판매합니다.\n· BMW에 따르면 디젤과 플러그인 하이브리드, 고성능 모델 등이 합류할 예정입니다.\n· 현행 7세대 7시리즈는 국내 수입 대형 플래그십 세단 가운데 3년 연속 가장 많이 팔렸습니다.\n\n———\n\n출처: 모터그래프\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #BMW #7시리즈 #i7\n",
+   "comment": "영상: BMW Korea 공식 유튜브 「[BMW] THE NEW BMW 7 - A TRIBUTE TO DEDICATION.」 https://www.youtube.com/watch?v=tELPSb6iVkA\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%EB%8D%94%EB%89%B4BMW7%EC%8B%9C%EB%A6%AC%EC%A6%88/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%EB%8D%94%EB%89%B4BMW7%EC%8B%9C%EB%A6%AC%EC%A6%88/cover.jpg"
   }
  }
 }
