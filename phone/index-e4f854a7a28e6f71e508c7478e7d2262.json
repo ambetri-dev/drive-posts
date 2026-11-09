@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T16:46:52.576615+09:00",
- "count": 1,
+ "updated_at": "2026-11-09T14:02:20.402368+09:00",
+ "count": 2,
  "items": [
   {
    "name": "🎬 릴스 · 폭스바겐 ID. 폴로 경제형 부문 1위",
@@ -10,6 +10,14 @@
    "comment": "영상: 폭스바겐 공식 유튜브 「Volkswagen ID. Polo | Up to 454 Miles of Range, Strong Value for Money」 https://www.youtube.com/watch?v=qAYvqeJz55Q\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90ID%ED%8F%B4%EB%A1%9C/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90ID%ED%8F%B4%EB%A1%9C/cover.jpg"
+  },
+  {
+   "name": "🖼 카드 · 커버 교체 · BMW·테슬라 라임",
+   "job": "1109_커버교체_라임",
+   "kind": "card",
+   "caption": "",
+   "card_01": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1109_%EC%BB%A4%EB%B2%84%EA%B5%90%EC%B2%B4_%EB%9D%BC%EC%9E%84/card_01.jpg",
+   "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1109_%EC%BB%A4%EB%B2%84%EA%B5%90%EC%B2%B4_%EB%9D%BC%EC%9E%84/card_02.jpg"
   }
  ],
  "by_name": {
@@ -21,6 +29,14 @@
    "comment": "영상: 폭스바겐 공식 유튜브 「Volkswagen ID. Polo | Up to 454 Miles of Range, Strong Value for Money」 https://www.youtube.com/watch?v=qAYvqeJz55Q\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90ID%ED%8F%B4%EB%A1%9C/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1105_3%EB%8B%A8_%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90ID%ED%8F%B4%EB%A1%9C/cover.jpg"
+  },
+  "🖼 카드 · 커버 교체 · BMW·테슬라 라임": {
+   "name": "🖼 카드 · 커버 교체 · BMW·테슬라 라임",
+   "job": "1109_커버교체_라임",
+   "kind": "card",
+   "caption": "",
+   "card_01": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1109_%EC%BB%A4%EB%B2%84%EA%B5%90%EC%B2%B4_%EB%9D%BC%EC%9E%84/card_01.jpg",
+   "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1109_%EC%BB%A4%EB%B2%84%EA%B5%90%EC%B2%B4_%EB%9D%BC%EC%9E%84/card_02.jpg"
   }
  }
 }
