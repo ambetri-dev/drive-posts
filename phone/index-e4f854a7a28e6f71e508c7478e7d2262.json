@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-10T14:39:10.197135+09:00",
- "count": 2,
+ "updated_at": "2026-11-13T12:44:22.724822+09:00",
+ "count": 3,
  "items": [
   {
    "name": "🎬 릴스 · 폭스바겐 ID. 폴로 경제형 부문 1위",
@@ -19,6 +19,15 @@
    "comment": "영상: 제네시스 코리아 공식 유튜브 「GV90 Neolun · GV90 | 시대를 앞선 선택을 위해 | 제네시스」 https://www.youtube.com/watch?v=WnTYQ3G2nRU\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1110_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4GV90%EB%84%A4%EC%98%A4%EB%A3%ACGV9/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1110_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4GV90%EB%84%A4%EC%98%A4%EB%A3%ACGV9/cover.jpg"
+  },
+  {
+   "name": "🎬 릴스 · 포르쉐 CEO, 테슬라 쇼에 일침",
+   "job": "1113_3단_포르쉐테슬라",
+   "kind": "reel",
+   "caption": "미하엘 라이터스 포르쉐 CEO가 테슬라 로드스터 공개 방식을 두고 \"어떤 종류의 특수효과나 쇼에서도 완전히 벗어나고자 한다\"고 말했습니다. 블룸버그통신이 전한 독일 베를린 콘퍼런스 발언입니다.\n\n· 테슬라는 10월 15일 2세대 로드스터를 공개하면서, 압축공기 추진 장치로 차가 공중에서 회전한 뒤 착지하는 시연을 보여줬습니다\n· 라이터스 CEO는 포르쉐가 화려한 시연보다 실제 기술 혁신을 보여주는 데 집중하겠다고 강조했습니다\n· 로드스터와 포르쉐 미션 S는 노리는 고객층이 다르다고 설명했고, 미션 S 공개 뒤 고객 반응이 매우 뜨겁다고 평가했습니다\n· 같은 날 공개된 미션 S는 911 상위 차급의 미드십 슈퍼카 콘셉트로, 하이브리드와 순수 내연기관을 모두 품도록 설계됐습니다\n· 로드스터는 2028년 양산이 목표이고, 최상위 로켓 사양은 1인승으로 일반 도로 주행 승인을 받지 않았습니다\n\n———\n\n출처: 오토헤럴드\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #포르쉐 #테슬라 #로드스터 #슈퍼카\n",
+   "comment": "영상: Tesla 공식 유튜브 「The Kickflip | Roadster」 https://www.youtube.com/watch?v=r5vsHHPVhJg\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1113_3%EB%8B%A8_%ED%8F%AC%EB%A5%B4%EC%89%90%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1113_3%EB%8B%A8_%ED%8F%AC%EB%A5%B4%EC%89%90%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
   }
  ],
  "by_name": {
@@ -39,6 +48,15 @@
    "comment": "영상: 제네시스 코리아 공식 유튜브 「GV90 Neolun · GV90 | 시대를 앞선 선택을 위해 | 제네시스」 https://www.youtube.com/watch?v=WnTYQ3G2nRU\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1110_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4GV90%EB%84%A4%EC%98%A4%EB%A3%ACGV9/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1110_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4GV90%EB%84%A4%EC%98%A4%EB%A3%ACGV9/cover.jpg"
+  },
+  "🎬 릴스 · 포르쉐 CEO, 테슬라 쇼에 일침": {
+   "name": "🎬 릴스 · 포르쉐 CEO, 테슬라 쇼에 일침",
+   "job": "1113_3단_포르쉐테슬라",
+   "kind": "reel",
+   "caption": "미하엘 라이터스 포르쉐 CEO가 테슬라 로드스터 공개 방식을 두고 \"어떤 종류의 특수효과나 쇼에서도 완전히 벗어나고자 한다\"고 말했습니다. 블룸버그통신이 전한 독일 베를린 콘퍼런스 발언입니다.\n\n· 테슬라는 10월 15일 2세대 로드스터를 공개하면서, 압축공기 추진 장치로 차가 공중에서 회전한 뒤 착지하는 시연을 보여줬습니다\n· 라이터스 CEO는 포르쉐가 화려한 시연보다 실제 기술 혁신을 보여주는 데 집중하겠다고 강조했습니다\n· 로드스터와 포르쉐 미션 S는 노리는 고객층이 다르다고 설명했고, 미션 S 공개 뒤 고객 반응이 매우 뜨겁다고 평가했습니다\n· 같은 날 공개된 미션 S는 911 상위 차급의 미드십 슈퍼카 콘셉트로, 하이브리드와 순수 내연기관을 모두 품도록 설계됐습니다\n· 로드스터는 2028년 양산이 목표이고, 최상위 로켓 사양은 1인승으로 일반 도로 주행 승인을 받지 않았습니다\n\n———\n\n출처: 오토헤럴드\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #포르쉐 #테슬라 #로드스터 #슈퍼카\n",
+   "comment": "영상: Tesla 공식 유튜브 「The Kickflip | Roadster」 https://www.youtube.com/watch?v=r5vsHHPVhJg\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1113_3%EB%8B%A8_%ED%8F%AC%EB%A5%B4%EC%89%90%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1113_3%EB%8B%A8_%ED%8F%AC%EB%A5%B4%EC%89%90%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
   }
  }
 }
