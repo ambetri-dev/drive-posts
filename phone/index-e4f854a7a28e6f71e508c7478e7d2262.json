@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-16T18:05:21.477494+09:00",
- "count": 5,
+ "updated_at": "2026-11-17T09:42:26.000208+09:00",
+ "count": 6,
  "items": [
   {
    "name": "🎬 릴스 · 폭스바겐 ID. 폴로 경제형 부문 1위",
@@ -52,6 +52,15 @@
    "comment": "영상: Hyundai Worldwide 공식 유튜브 「2026 PALISADE Hybrid | Performance & Engine Options」 https://www.youtube.com/watch?v=14kjlzIRZQU\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/cover.jpg"
+  },
+  {
+   "name": "🎬 릴스 · 테슬라 사이버캡 구독 없으면 못 탄다",
+   "job": "1117_3단_테슬라사이버캡",
+   "kind": "reel",
+   "caption": "테슬라 사이버캡은 차를 사도 월 자율주행 구독에 가입하지 않으면 운행할 수 없다는 약관 내용이 알려졌습니다.\n\n· 테슬라가 일부 고객을 대상으로 사이버캡 사전 주문을 시작했습니다.\n· 차량 가격은 2만 9,990달러(약 4,000만 원)이며, 운행하려면 월 299달러(약 40만 원) 자율주행 구독에 가입해야 합니다. 최초 구매 시 한 달 구독이 포함됩니다.\n· 2026년 11월 12일자 계약서에는 유효한 구독이 없으면 차량이 작동하지 않는다고 명시됐습니다. 사이버캡에는 스티어링 휠과 가속·브레이크 페달이 없습니다.\n· 세 차례 이상 경고를 받으면 일주일간 자율주행 기능이 정지될 수 있고, 정지 기간 구독료는 비례 환불되지 않습니다.\n· 테슬라는 한 달 전 통지로 구독 요금을 변경할 수 있으며, 차량은 테슬라가 허용한 지오펜스 안에서만 운행할 수 있습니다.\n· 원칙적으로 개인의 비상업적 용도로만 사용할 수 있고, 일부 영상 데이터의 기본 보관 기간은 30일로 규정된 것으로 전해졌습니다.\n\n———\n\n출처: 오토헤럴드\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #테슬라 #사이버캡\n",
+   "comment": "영상: 테슬라 공식 유튜브 「The Future Has Arrived | Cybercab」 https://www.youtube.com/watch?v=grdt05okn3Q\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1117_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1117_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1/cover.jpg"
   }
  ],
  "by_name": {
@@ -105,6 +114,15 @@
    "comment": "영상: Hyundai Worldwide 공식 유튜브 「2026 PALISADE Hybrid | Performance & Engine Options」 https://www.youtube.com/watch?v=14kjlzIRZQU\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/cover.jpg"
+  },
+  "🎬 릴스 · 테슬라 사이버캡 구독 없으면 못 탄다": {
+   "name": "🎬 릴스 · 테슬라 사이버캡 구독 없으면 못 탄다",
+   "job": "1117_3단_테슬라사이버캡",
+   "kind": "reel",
+   "caption": "테슬라 사이버캡은 차를 사도 월 자율주행 구독에 가입하지 않으면 운행할 수 없다는 약관 내용이 알려졌습니다.\n\n· 테슬라가 일부 고객을 대상으로 사이버캡 사전 주문을 시작했습니다.\n· 차량 가격은 2만 9,990달러(약 4,000만 원)이며, 운행하려면 월 299달러(약 40만 원) 자율주행 구독에 가입해야 합니다. 최초 구매 시 한 달 구독이 포함됩니다.\n· 2026년 11월 12일자 계약서에는 유효한 구독이 없으면 차량이 작동하지 않는다고 명시됐습니다. 사이버캡에는 스티어링 휠과 가속·브레이크 페달이 없습니다.\n· 세 차례 이상 경고를 받으면 일주일간 자율주행 기능이 정지될 수 있고, 정지 기간 구독료는 비례 환불되지 않습니다.\n· 테슬라는 한 달 전 통지로 구독 요금을 변경할 수 있으며, 차량은 테슬라가 허용한 지오펜스 안에서만 운행할 수 있습니다.\n· 원칙적으로 개인의 비상업적 용도로만 사용할 수 있고, 일부 영상 데이터의 기본 보관 기간은 30일로 규정된 것으로 전해졌습니다.\n\n———\n\n출처: 오토헤럴드\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #테슬라 #사이버캡\n",
+   "comment": "영상: 테슬라 공식 유튜브 「The Future Has Arrived | Cybercab」 https://www.youtube.com/watch?v=grdt05okn3Q\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1117_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1117_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC%EC%82%AC%EC%9D%B4%EB%B2%84%EC%BA%A1/cover.jpg"
   }
  }
 }
