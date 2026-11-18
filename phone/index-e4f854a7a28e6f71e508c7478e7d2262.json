@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-18T15:02:49.695289+09:00",
- "count": 3,
+ "count": 2,
  "items": [
   {
    "name": "🖼 카드 · 추운 아침 시동이 안 걸린다면",
@@ -13,15 +13,6 @@
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_04.jpg",
    "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_05.jpg",
    "card_06": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_06.jpg"
-  },
-  {
-   "name": "🎬 릴스 · 자동차 수출 10월 역대 최대",
-   "job": "1116_3단_국내자동차산업산업통상부10_2",
-   "kind": "reel",
-   "caption": "10월 자동차 수출액이 65억 5,000만 달러로 역대 10월 가운데 가장 큰 규모를 기록했습니다.\n\n· 수출액 65억 5,000만 달러, 지난해 같은 달 대비 18.1% 증가\n· 생산 38만 1,000대로 25.8% 증가, 내수 판매 13만 7,000대로 7.9% 증가\n· 북미 수출 33억 8,000만 달러로 33.2% 증가, EU 수출 11억 8,000만 달러로 58.2% 증가\n· 친환경차 수출 31억 달러로 49% 증가 (전기차 10억 4,000만 달러로 41.6% 증가, 하이브리드차 20억 6,000만 달러로 53.1% 증가)\n· 1~10월 친환경차 누적 수출 88만 4,000대로 지난해 연간 실적 87만 4,000대 넘어\n· 내수 친환경차 판매 8만 5,000대로 내수의 약 62% 차지, 전기차 내수 판매 3만 5,000대로 81.4% 증가\n\n산업부는 추석 연휴가 9월로 옮겨 가면서 평균 조업일수가 4일 늘어난 점 등을 배경으로 꼽았습니다. 1~10월 누적 생산은 339만 6,000대로 지난해 같은 기간보다 0.3% 늘었습니다. 산업부는 업계와 소통하며 자동차 산업 생태계 경쟁력 강화 지원을 이어갈 방침입니다.\n\n———\n\n출처: 이지경제\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #전기차\n",
-   "comment": "영상: Hyundai Worldwide 공식 유튜브 「2026 PALISADE Hybrid | Performance & Engine Options」 https://www.youtube.com/watch?v=14kjlzIRZQU\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/cover.jpg"
   },
   {
    "name": "🎬 릴스 · 현대차 신형 아반떼 LA에서 공개 예정",
@@ -45,15 +36,6 @@
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_04.jpg",
    "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_05.jpg",
    "card_06": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_06.jpg"
-  },
-  "🎬 릴스 · 자동차 수출 10월 역대 최대": {
-   "name": "🎬 릴스 · 자동차 수출 10월 역대 최대",
-   "job": "1116_3단_국내자동차산업산업통상부10_2",
-   "kind": "reel",
-   "caption": "10월 자동차 수출액이 65억 5,000만 달러로 역대 10월 가운데 가장 큰 규모를 기록했습니다.\n\n· 수출액 65억 5,000만 달러, 지난해 같은 달 대비 18.1% 증가\n· 생산 38만 1,000대로 25.8% 증가, 내수 판매 13만 7,000대로 7.9% 증가\n· 북미 수출 33억 8,000만 달러로 33.2% 증가, EU 수출 11억 8,000만 달러로 58.2% 증가\n· 친환경차 수출 31억 달러로 49% 증가 (전기차 10억 4,000만 달러로 41.6% 증가, 하이브리드차 20억 6,000만 달러로 53.1% 증가)\n· 1~10월 친환경차 누적 수출 88만 4,000대로 지난해 연간 실적 87만 4,000대 넘어\n· 내수 친환경차 판매 8만 5,000대로 내수의 약 62% 차지, 전기차 내수 판매 3만 5,000대로 81.4% 증가\n\n산업부는 추석 연휴가 9월로 옮겨 가면서 평균 조업일수가 4일 늘어난 점 등을 배경으로 꼽았습니다. 1~10월 누적 생산은 339만 6,000대로 지난해 같은 기간보다 0.3% 늘었습니다. 산업부는 업계와 소통하며 자동차 산업 생태계 경쟁력 강화 지원을 이어갈 방침입니다.\n\n———\n\n출처: 이지경제\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #전기차\n",
-   "comment": "영상: Hyundai Worldwide 공식 유튜브 「2026 PALISADE Hybrid | Performance & Engine Options」 https://www.youtube.com/watch?v=14kjlzIRZQU\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_3%EB%8B%A8_%EA%B5%AD%EB%82%B4%EC%9E%90%EB%8F%99%EC%B0%A8%EC%82%B0%EC%97%85%EC%82%B0%EC%97%85%ED%86%B5%EC%83%81%EB%B6%8010_2/cover.jpg"
   },
   "🎬 릴스 · 현대차 신형 아반떼 LA에서 공개 예정": {
    "name": "🎬 릴스 · 현대차 신형 아반떼 LA에서 공개 예정",
