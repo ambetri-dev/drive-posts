@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T11:07:34.014522+09:00",
+ "updated_at": "2026-11-20T11:21:50.770727+09:00",
  "count": 3,
  "items": [
   {
@@ -15,15 +15,6 @@
    "card_06": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_06.jpg"
   },
   {
-   "name": "🎬 릴스 · 제네시스 G80 하이브리드 첫 공개",
-   "job": "1120_3단_제네시스G80하이브리드",
-   "kind": "reel",
-   "caption": "제네시스가 2026 LA 오토쇼에서 G80 하이브리드를 세계 최초로 선보였습니다.\n\n· 공개 일시와 장소: 19일(현지시각) 미국 로스앤젤레스 컨벤션 센터\n· 복합효율은 14.1㎞/ℓ이며 2.5 가솔린 터보보다 약 34% 높아짐 (18인치 2WD, 연구소 자체 측정 기준)\n· 한 번 주유로 약 1,029㎞까지 주행 가능\n· 휠베이스를 130㎜ 늘려 실내 공간 확대\n· 시속 100㎞에서의 응답성은 2.5 가솔린 터보보다 약 18% 좋아짐\n· 출발 후 약 30㎞/h에 이를 때까지 EV 모드 주행을 적극 활용\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #제네시스 #G80하이브리드 #LA오토쇼 #하이브리드\n",
-   "comment": "영상: 제네시스 공식 유튜브 「Electrified G80 | Performance | Genesis」 https://www.youtube.com/watch?v=zC-KLhQojkk\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
-  },
-  {
    "name": "[EN] 🎬 릴스 · Genesis G80 Hybrid Debu…",
    "job": "EN_1120_3단_제네시스G80하이브리드",
    "kind": "reel",
@@ -31,6 +22,15 @@
    "comment": "Video: 제네시스 on YouTube, “Electrified G80 | Performance | Genesis” https://www.youtube.com/watch?v=zC-KLhQojkk\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
+  },
+  {
+   "name": "🎬 릴스 · 제네시스 G80 하이브리드 첫 공개",
+   "job": "1120_3단_제네시스G80하이브리드",
+   "kind": "reel",
+   "caption": "제네시스가 2026 LA 오토쇼에서 G80 하이브리드를 세계 최초로 선보였습니다.\n\n· 공개 일시와 장소: 19일(현지시각) 미국 로스앤젤레스 컨벤션 센터\n· 복합효율은 14.1㎞/ℓ이며 2.5 가솔린 터보보다 약 34% 높아짐 (18인치 2WD, 연구소 자체 측정 기준)\n· 한 번 주유로 약 1,029㎞까지 주행 가능\n· 휠베이스를 130㎜ 늘려 실내 공간 확대\n· 시속 100㎞에서의 응답성은 2.5 가솔린 터보보다 약 18% 좋아짐\n· 출발 후 약 30㎞/h에 이를 때까지 EV 모드 주행을 적극 활용\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #제네시스 #G80하이브리드 #LA오토쇼 #하이브리드\n",
+   "comment": "영상: 제네시스 공식 유튜브 「Electrified G80 | Performance | Genesis」 https://www.youtube.com/watch?v=zC-KLhQojkk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
   }
  ],
  "by_name": {
@@ -46,15 +46,6 @@
    "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_05.jpg",
    "card_06": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1116_2%EB%8B%A8_%EA%B2%A8%EC%9A%B8%EB%B0%B0%ED%84%B0%EB%A6%AC/card_06.jpg"
   },
-  "🎬 릴스 · 제네시스 G80 하이브리드 첫 공개": {
-   "name": "🎬 릴스 · 제네시스 G80 하이브리드 첫 공개",
-   "job": "1120_3단_제네시스G80하이브리드",
-   "kind": "reel",
-   "caption": "제네시스가 2026 LA 오토쇼에서 G80 하이브리드를 세계 최초로 선보였습니다.\n\n· 공개 일시와 장소: 19일(현지시각) 미국 로스앤젤레스 컨벤션 센터\n· 복합효율은 14.1㎞/ℓ이며 2.5 가솔린 터보보다 약 34% 높아짐 (18인치 2WD, 연구소 자체 측정 기준)\n· 한 번 주유로 약 1,029㎞까지 주행 가능\n· 휠베이스를 130㎜ 늘려 실내 공간 확대\n· 시속 100㎞에서의 응답성은 2.5 가솔린 터보보다 약 18% 좋아짐\n· 출발 후 약 30㎞/h에 이를 때까지 EV 모드 주행을 적극 활용\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #제네시스 #G80하이브리드 #LA오토쇼 #하이브리드\n",
-   "comment": "영상: 제네시스 공식 유튜브 「Electrified G80 | Performance | Genesis」 https://www.youtube.com/watch?v=zC-KLhQojkk\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
-  },
   "[EN] 🎬 릴스 · Genesis G80 Hybrid Debu…": {
    "name": "[EN] 🎬 릴스 · Genesis G80 Hybrid Debu…",
    "job": "EN_1120_3단_제네시스G80하이브리드",
@@ -63,6 +54,15 @@
    "comment": "Video: 제네시스 on YouTube, “Electrified G80 | Performance | Genesis” https://www.youtube.com/watch?v=zC-KLhQojkk\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
+  },
+  "🎬 릴스 · 제네시스 G80 하이브리드 첫 공개": {
+   "name": "🎬 릴스 · 제네시스 G80 하이브리드 첫 공개",
+   "job": "1120_3단_제네시스G80하이브리드",
+   "kind": "reel",
+   "caption": "제네시스가 2026 LA 오토쇼에서 G80 하이브리드를 세계 최초로 선보였습니다.\n\n· 공개 일시와 장소: 19일(현지시각) 미국 로스앤젤레스 컨벤션 센터\n· 복합효율은 14.1㎞/ℓ이며 2.5 가솔린 터보보다 약 34% 높아짐 (18인치 2WD, 연구소 자체 측정 기준)\n· 한 번 주유로 약 1,029㎞까지 주행 가능\n· 휠베이스를 130㎜ 늘려 실내 공간 확대\n· 시속 100㎞에서의 응답성은 2.5 가솔린 터보보다 약 18% 좋아짐\n· 출발 후 약 30㎞/h에 이를 때까지 EV 모드 주행을 적극 활용\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #제네시스 #G80하이브리드 #LA오토쇼 #하이브리드\n",
+   "comment": "영상: 제네시스 공식 유튜브 「Electrified G80 | Performance | Genesis」 https://www.youtube.com/watch?v=zC-KLhQojkk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
   }
  }
 }
