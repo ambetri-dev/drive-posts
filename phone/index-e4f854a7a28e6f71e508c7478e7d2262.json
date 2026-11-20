@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-20T11:07:34.014522+09:00",
- "count": 2,
+ "count": 3,
  "items": [
   {
    "name": "🖼 카드 · 추운 아침 시동이 안 걸린다면",
@@ -22,6 +22,15 @@
    "comment": "영상: 제네시스 공식 유튜브 「Electrified G80 | Performance | Genesis」 https://www.youtube.com/watch?v=zC-KLhQojkk\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
+  },
+  {
+   "name": "[EN] 🎬 릴스 · Genesis G80 Hybrid Debu…",
+   "job": "EN_1120_3단_제네시스G80하이브리드",
+   "kind": "reel",
+   "caption": "Genesis has given the G80 Hybrid its world premiere at the LA Auto Show.\n\n· Unveiled on the 19th (local time) at the Los Angeles Convention Center, USA\n· Combined efficiency of 14.1 km/L, about 34% better than the 2.5 gasoline turbo (18-inch 2WD, in-house test)\n· Up to about 1,029 km on a single tank\n· Wheelbase stretched by 130 mm for more cabin space\n· Response at 100 km/h about 18% better than the 2.5 gasoline turbo\n· Actively uses EV mode from a standstill up to about 30 km/h\n\n———\n\nSource: Autotimes\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_en\n\n#carnews #Genesis #G80 #hybrid #EV\n",
+   "comment": "Video: 제네시스 on YouTube, “Electrified G80 | Performance | Genesis” https://www.youtube.com/watch?v=zC-KLhQojkk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
   }
  ],
  "by_name": {
@@ -45,6 +54,15 @@
    "comment": "영상: 제네시스 공식 유튜브 「Electrified G80 | Performance | Genesis」 https://www.youtube.com/watch?v=zC-KLhQojkk\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
+  },
+  "[EN] 🎬 릴스 · Genesis G80 Hybrid Debu…": {
+   "name": "[EN] 🎬 릴스 · Genesis G80 Hybrid Debu…",
+   "job": "EN_1120_3단_제네시스G80하이브리드",
+   "kind": "reel",
+   "caption": "Genesis has given the G80 Hybrid its world premiere at the LA Auto Show.\n\n· Unveiled on the 19th (local time) at the Los Angeles Convention Center, USA\n· Combined efficiency of 14.1 km/L, about 34% better than the 2.5 gasoline turbo (18-inch 2WD, in-house test)\n· Up to about 1,029 km on a single tank\n· Wheelbase stretched by 130 mm for more cabin space\n· Response at 100 km/h about 18% better than the 2.5 gasoline turbo\n· Actively uses EV mode from a standstill up to about 30 km/h\n\n———\n\nSource: Autotimes\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_en\n\n#carnews #Genesis #G80 #hybrid #EV\n",
+   "comment": "Video: 제네시스 on YouTube, “Electrified G80 | Performance | Genesis” https://www.youtube.com/watch?v=zC-KLhQojkk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1120_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4G80%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C/cover.jpg"
   }
  }
 }
