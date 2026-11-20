@@ -13,6 +13,6 @@ Source: GP Korea
 ———
 
 𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple
-@d.rive_en
+@d.rive_inc_global
 
 #carnews #Volkswagen #GTI #WLTP #EV
