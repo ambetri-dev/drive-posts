@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-23T09:01:04.363159+09:00",
- "count": 6,
+ "updated_at": "2026-11-23T09:09:10.703912+09:00",
+ "count": 7,
  "items": [
   {
    "name": "🖼 카드 · 추운 아침 시동이 안 걸린다면",
@@ -59,6 +59,15 @@
    "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_02.jpg",
    "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_03.jpg",
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_04.jpg"
+  },
+  {
+   "name": "🎬 릴스 · 기아 가장 싼 전기차 2027년 선보일 계획",
+   "job": "1123_3단_기아EV1",
+   "kind": "reel",
+   "caption": "일렉트렉에 따르면 기아가 2027년 브랜드에서 가장 저렴한 보급형 전기차를 선보일 계획입니다. 업계는 차명을 'EV1'으로 예상합니다.\n\n· 미국 기준 2만 2,000~2만 4,000달러 수준으로 계획\n· 유럽 예상 가격은 정부 보조금 제외 2만~2만 2,000유로\n· 유럽 EV2 시작 가격은 2만 6,600유로, 미국 EV3 시작 가격은 2만 9,890달러\n· 테드 리 부사장은 현대차와 엔트리급 전기차 2종용 전용 아키텍처를 공동 개발 중이라고 밝혔습니다\n· 코다(CODA), 플레오스 커넥트, 글레오 AI 적용 예정이며 기아는 2027년 말까지 첫 SDV 개발 완료를 계획하고 있습니다\n· 초기에는 고속도로 레벨2+를 지원하고 2029년 도심 레벨2++로 확대하는 방안이 제시됐습니다\n\n———\n\n출처: 디지털투데이\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #기아 #EV1 #보급형전기차 #유럽\n",
+   "comment": "영상: 기아 공식 유튜브 「Kia How To | The Kia EV3 | i-PEDAL」 https://www.youtube.com/watch?v=cpRHHtHSlUg\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EA%B8%B0%EC%95%84EV1/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EA%B8%B0%EC%95%84EV1/cover.jpg"
   }
  ],
  "by_name": {
@@ -119,6 +128,15 @@
    "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_02.jpg",
    "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_03.jpg",
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_04.jpg"
+  },
+  "🎬 릴스 · 기아 가장 싼 전기차 2027년 선보일 계획": {
+   "name": "🎬 릴스 · 기아 가장 싼 전기차 2027년 선보일 계획",
+   "job": "1123_3단_기아EV1",
+   "kind": "reel",
+   "caption": "일렉트렉에 따르면 기아가 2027년 브랜드에서 가장 저렴한 보급형 전기차를 선보일 계획입니다. 업계는 차명을 'EV1'으로 예상합니다.\n\n· 미국 기준 2만 2,000~2만 4,000달러 수준으로 계획\n· 유럽 예상 가격은 정부 보조금 제외 2만~2만 2,000유로\n· 유럽 EV2 시작 가격은 2만 6,600유로, 미국 EV3 시작 가격은 2만 9,890달러\n· 테드 리 부사장은 현대차와 엔트리급 전기차 2종용 전용 아키텍처를 공동 개발 중이라고 밝혔습니다\n· 코다(CODA), 플레오스 커넥트, 글레오 AI 적용 예정이며 기아는 2027년 말까지 첫 SDV 개발 완료를 계획하고 있습니다\n· 초기에는 고속도로 레벨2+를 지원하고 2029년 도심 레벨2++로 확대하는 방안이 제시됐습니다\n\n———\n\n출처: 디지털투데이\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #기아 #EV1 #보급형전기차 #유럽\n",
+   "comment": "영상: 기아 공식 유튜브 「Kia How To | The Kia EV3 | i-PEDAL」 https://www.youtube.com/watch?v=cpRHHtHSlUg\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EA%B8%B0%EC%95%84EV1/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EA%B8%B0%EC%95%84EV1/cover.jpg"
   }
  }
 }
