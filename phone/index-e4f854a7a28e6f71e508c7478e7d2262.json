@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T16:00:38.466501+09:00",
+ "updated_at": "2026-11-23T16:00:56.444692+09:00",
  "count": 8,
  "items": [
   {
@@ -61,15 +61,6 @@
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_04.jpg"
   },
   {
-   "name": "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단",
-   "job": "EN_1123_3단_제네시스",
-   "kind": "reel",
-   "caption": "Genesis is moving GV70 production from its Montgomery, Alabama plant in the US to Hyundai's Ulsan Plant in Korea.\n\n· Major international media reported the move on the 23rd (local time).\n· Local US production will stop, and Ulsan-built cars will be exported to the US instead.\n· US sales will continue, supplied with vehicles built in Korea.\n· Genesis's North America COO explained that rising Hyundai sales in the US left the Alabama plant short on production capacity.\n· The electrified GV70 had been built at the Alabama plant since February 2023, the first time Genesis produced a complete vehicle outside Korea.\n· Electrified GV70 production in Alabama was paused last August, and an industry source said there is still room for local US production to restart.\n\n———\n\nSource: Autotimes\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Genesis #GV70 #Hyundai #Ulsan\n",
-   "comment": "Video: 제네시스 on YouTube, “Electrified GV70 | Performance Live | Genesis” https://www.youtube.com/watch?v=65f7YAQQEvA\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
-  },
-  {
    "name": "🎬 릴스 · 제네시스, GV70 미국 생산 중단",
    "job": "1123_3단_제네시스",
    "kind": "reel",
@@ -77,6 +68,15 @@
    "comment": "영상: 제네시스 공식 유튜브 「Electrified GV70 | Performance Live | Genesis」 https://www.youtube.com/watch?v=65f7YAQQEvA\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
+  },
+  {
+   "name": "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단",
+   "job": "EN_1123_3단_제네시스",
+   "kind": "reel",
+   "caption": "Genesis is moving GV70 production from its Montgomery, Alabama plant in the US to Hyundai's Ulsan Plant in Korea.\n\n· Major international media reported the move on the 23rd (local time).\n· Local US production will stop, and Ulsan-built cars will be exported to the US instead.\n· US sales will continue, supplied with vehicles built in Korea.\n· Genesis's North America COO explained that rising Hyundai sales in the US left the Alabama plant short on production capacity.\n· The electrified GV70 had been built at the Alabama plant since February 2023, the first time Genesis produced a complete vehicle outside Korea.\n· Electrified GV70 production in Alabama was paused last August, and an industry source said there is still room for local US production to restart.\n\n———\n\nSource: Autotimes\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Genesis #GV70 #Hyundai #Ulsan\n",
+   "comment": "Video: 제네시스 on YouTube, “Electrified GV70 | Performance Live | Genesis” https://www.youtube.com/watch?v=65f7YAQQEvA\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
   }
  ],
  "by_name": {
@@ -138,15 +138,6 @@
    "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_03.jpg",
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1121_3%EB%8B%A8_KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0SE10%EB%A0%89%EC%8A%A4%ED%84%B4P/card_04.jpg"
   },
-  "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단": {
-   "name": "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단",
-   "job": "EN_1123_3단_제네시스",
-   "kind": "reel",
-   "caption": "Genesis is moving GV70 production from its Montgomery, Alabama plant in the US to Hyundai's Ulsan Plant in Korea.\n\n· Major international media reported the move on the 23rd (local time).\n· Local US production will stop, and Ulsan-built cars will be exported to the US instead.\n· US sales will continue, supplied with vehicles built in Korea.\n· Genesis's North America COO explained that rising Hyundai sales in the US left the Alabama plant short on production capacity.\n· The electrified GV70 had been built at the Alabama plant since February 2023, the first time Genesis produced a complete vehicle outside Korea.\n· Electrified GV70 production in Alabama was paused last August, and an industry source said there is still room for local US production to restart.\n\n———\n\nSource: Autotimes\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Genesis #GV70 #Hyundai #Ulsan\n",
-   "comment": "Video: 제네시스 on YouTube, “Electrified GV70 | Performance Live | Genesis” https://www.youtube.com/watch?v=65f7YAQQEvA\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
-  },
   "🎬 릴스 · 제네시스, GV70 미국 생산 중단": {
    "name": "🎬 릴스 · 제네시스, GV70 미국 생산 중단",
    "job": "1123_3단_제네시스",
@@ -155,6 +146,15 @@
    "comment": "영상: 제네시스 공식 유튜브 「Electrified GV70 | Performance Live | Genesis」 https://www.youtube.com/watch?v=65f7YAQQEvA\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
+  },
+  "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단": {
+   "name": "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단",
+   "job": "EN_1123_3단_제네시스",
+   "kind": "reel",
+   "caption": "Genesis is moving GV70 production from its Montgomery, Alabama plant in the US to Hyundai's Ulsan Plant in Korea.\n\n· Major international media reported the move on the 23rd (local time).\n· Local US production will stop, and Ulsan-built cars will be exported to the US instead.\n· US sales will continue, supplied with vehicles built in Korea.\n· Genesis's North America COO explained that rising Hyundai sales in the US left the Alabama plant short on production capacity.\n· The electrified GV70 had been built at the Alabama plant since February 2023, the first time Genesis produced a complete vehicle outside Korea.\n· Electrified GV70 production in Alabama was paused last August, and an industry source said there is still room for local US production to restart.\n\n———\n\nSource: Autotimes\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Genesis #GV70 #Hyundai #Ulsan\n",
+   "comment": "Video: 제네시스 on YouTube, “Electrified GV70 | Performance Live | Genesis” https://www.youtube.com/watch?v=65f7YAQQEvA\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
   }
  }
 }
