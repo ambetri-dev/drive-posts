@@ -1,16 +1,7 @@
 {
  "updated_at": "2026-11-25T13:31:29.458015+09:00",
- "count": 6,
+ "count": 5,
  "items": [
-  {
-   "name": "🎬 릴스 · 제네시스, GV70 미국 생산 중단",
-   "job": "1123_3단_제네시스",
-   "kind": "reel",
-   "caption": "제네시스가 미국 앨라배마주 몽고메리 공장의 GV70 생산 거점을 한국 울산공장으로 옮깁니다.\n\n· 23일(현지시간) 주요 외신이 생산 거점 이전 소식을 전했습니다.\n· 미국 현지 생산을 멈추고 울산에서 만든 차를 미국으로 수출하는 방식으로 바뀝니다.\n· 미국 판매는 계속되며, 한국에서 생산한 차량이 공급됩니다.\n· 제네시스 북미 COO는 현대차 미국 판매가 늘면서 앨라배마 공장의 생산 여력이 부족해졌다고 설명했습니다.\n· 전동화 GV70은 2023년 2월부터 앨라배마 공장에서 만들어졌고, 제네시스가 처음으로 한국 밖에서 완성차를 생산한 사례였습니다.\n· 앨라배마 공장의 전동화 GV70 생산은 지난해 8월 일시 중단됐고, 업계 관계자는 미국 현지 생산이 다시 시작될 여지도 있다고 말했습니다.\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #제네시스 #GV70 #앨라배마 #울산공장\n",
-   "comment": "영상: 제네시스 공식 유튜브 「Electrified GV70 | Performance Live | Genesis」 https://www.youtube.com/watch?v=65f7YAQQEvA\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
-  },
   {
    "name": "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단",
    "job": "EN_1123_3단_제네시스",
@@ -64,15 +55,6 @@
   }
  ],
  "by_name": {
-  "🎬 릴스 · 제네시스, GV70 미국 생산 중단": {
-   "name": "🎬 릴스 · 제네시스, GV70 미국 생산 중단",
-   "job": "1123_3단_제네시스",
-   "kind": "reel",
-   "caption": "제네시스가 미국 앨라배마주 몽고메리 공장의 GV70 생산 거점을 한국 울산공장으로 옮깁니다.\n\n· 23일(현지시간) 주요 외신이 생산 거점 이전 소식을 전했습니다.\n· 미국 현지 생산을 멈추고 울산에서 만든 차를 미국으로 수출하는 방식으로 바뀝니다.\n· 미국 판매는 계속되며, 한국에서 생산한 차량이 공급됩니다.\n· 제네시스 북미 COO는 현대차 미국 판매가 늘면서 앨라배마 공장의 생산 여력이 부족해졌다고 설명했습니다.\n· 전동화 GV70은 2023년 2월부터 앨라배마 공장에서 만들어졌고, 제네시스가 처음으로 한국 밖에서 완성차를 생산한 사례였습니다.\n· 앨라배마 공장의 전동화 GV70 생산은 지난해 8월 일시 중단됐고, 업계 관계자는 미국 현지 생산이 다시 시작될 여지도 있다고 말했습니다.\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #제네시스 #GV70 #앨라배마 #울산공장\n",
-   "comment": "영상: 제네시스 공식 유튜브 「Electrified GV70 | Performance Live | Genesis」 https://www.youtube.com/watch?v=65f7YAQQEvA\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1123_3%EB%8B%A8_%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4/cover.jpg"
-  },
   "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단": {
    "name": "[EN] 🎬 릴스 · 제네시스, GV70 미국 생산 중단",
    "job": "EN_1123_3단_제네시스",
