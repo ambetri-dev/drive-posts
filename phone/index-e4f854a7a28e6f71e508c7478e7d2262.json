@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-25T13:30:04.339986+09:00",
- "count": 7,
+ "count": 6,
  "items": [
   {
    "name": "🎬 릴스 · 제네시스, GV70 미국 생산 중단",
@@ -39,15 +39,6 @@
    "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1124_3%EB%8B%A8_%ED%86%A0%EC%9A%94%ED%83%80%EC%8A%A4%ED%82%A4%EC%98%A8BKE%EC%BD%98%EC%85%89%ED%8A%B8/card_02.jpg",
    "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1124_3%EB%8B%A8_%ED%86%A0%EC%9A%94%ED%83%80%EC%8A%A4%ED%82%A4%EC%98%A8BKE%EC%BD%98%EC%85%89%ED%8A%B8/card_03.jpg",
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1124_3%EB%8B%A8_%ED%86%A0%EC%9A%94%ED%83%80%EC%8A%A4%ED%82%A4%EC%98%A8BKE%EC%BD%98%EC%85%89%ED%8A%B8/card_04.jpg"
-  },
-  {
-   "name": "🎬 릴스 · 현대차그룹 글로벌 완속충전기 공개",
-   "job": "1125_3단_현대차그룹HMG글로벌완속충",
-   "kind": "reel",
-   "caption": "현대차그룹이 현대차·기아·제네시스에 공통 적용할 'HMG 글로벌 완속충전기'를 25일 공개했습니다.\n\n· 2027년 국내 출시 후 미국·유럽·인도 등 주요 시장에 순차 공급할 계획입니다\n· 국내 기준 7㎾·11㎾ 출력을 지원하고 타입1(J1772) 충전 규격을 적용했습니다\n· 플러그앤차지 기능으로 연결하면 이용자 인증과 요금 결제가 자동으로 이뤄집니다\n· 설치·배선부와 충전 기능부를 나눠 설치 시간은 약 10분으로, 교체 시간은 약 5분으로 줄였습니다\n· 원격 제어·자가 진단·OTA 기능을 갖췄고, 브랜드 앱과 연동해 충전 상태·이력 확인과 예약 충전 서비스를 제공할 예정입니다\n· 현대차·기아가 기획·기술 개발·디자인을 맡고 현대케피코가 제품 개발과 양산을 담당하며, V2H·V2G 양방향 충전 확장 가능성도 설계 단계부터 고려했습니다\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #현대차 #완속충전기 #플러그앤차지 #현대케피코\n",
-   "comment": "영상: 현대 공식 유튜브 「Plug & Charge | Hyundai」 https://www.youtube.com/watch?v=IP4pI4HZeRg\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1125_3%EB%8B%A8_%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9HMG%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%99%84%EC%86%8D%EC%B6%A9/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1125_3%EB%8B%A8_%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9HMG%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%99%84%EC%86%8D%EC%B6%A9/cover.jpg"
   },
   {
    "name": "[EN] 🎬 릴스 · 현대차그룹 글로벌 완속충전기 공개",
@@ -108,15 +99,6 @@
    "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1124_3%EB%8B%A8_%ED%86%A0%EC%9A%94%ED%83%80%EC%8A%A4%ED%82%A4%EC%98%A8BKE%EC%BD%98%EC%85%89%ED%8A%B8/card_02.jpg",
    "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1124_3%EB%8B%A8_%ED%86%A0%EC%9A%94%ED%83%80%EC%8A%A4%ED%82%A4%EC%98%A8BKE%EC%BD%98%EC%85%89%ED%8A%B8/card_03.jpg",
    "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1124_3%EB%8B%A8_%ED%86%A0%EC%9A%94%ED%83%80%EC%8A%A4%ED%82%A4%EC%98%A8BKE%EC%BD%98%EC%85%89%ED%8A%B8/card_04.jpg"
-  },
-  "🎬 릴스 · 현대차그룹 글로벌 완속충전기 공개": {
-   "name": "🎬 릴스 · 현대차그룹 글로벌 완속충전기 공개",
-   "job": "1125_3단_현대차그룹HMG글로벌완속충",
-   "kind": "reel",
-   "caption": "현대차그룹이 현대차·기아·제네시스에 공통 적용할 'HMG 글로벌 완속충전기'를 25일 공개했습니다.\n\n· 2027년 국내 출시 후 미국·유럽·인도 등 주요 시장에 순차 공급할 계획입니다\n· 국내 기준 7㎾·11㎾ 출력을 지원하고 타입1(J1772) 충전 규격을 적용했습니다\n· 플러그앤차지 기능으로 연결하면 이용자 인증과 요금 결제가 자동으로 이뤄집니다\n· 설치·배선부와 충전 기능부를 나눠 설치 시간은 약 10분으로, 교체 시간은 약 5분으로 줄였습니다\n· 원격 제어·자가 진단·OTA 기능을 갖췄고, 브랜드 앱과 연동해 충전 상태·이력 확인과 예약 충전 서비스를 제공할 예정입니다\n· 현대차·기아가 기획·기술 개발·디자인을 맡고 현대케피코가 제품 개발과 양산을 담당하며, V2H·V2G 양방향 충전 확장 가능성도 설계 단계부터 고려했습니다\n\n———\n\n출처: 오토타임즈\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #현대차 #완속충전기 #플러그앤차지 #현대케피코\n",
-   "comment": "영상: 현대 공식 유튜브 「Plug & Charge | Hyundai」 https://www.youtube.com/watch?v=IP4pI4HZeRg\n",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1125_3%EB%8B%A8_%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9HMG%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%99%84%EC%86%8D%EC%B6%A9/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1125_3%EB%8B%A8_%ED%98%84%EB%8C%80%EC%B0%A8%EA%B7%B8%EB%A3%B9HMG%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%99%84%EC%86%8D%EC%B6%A9/cover.jpg"
   },
   "[EN] 🎬 릴스 · 현대차그룹 글로벌 완속충전기 공개": {
    "name": "[EN] 🎬 릴스 · 현대차그룹 글로벌 완속충전기 공개",
