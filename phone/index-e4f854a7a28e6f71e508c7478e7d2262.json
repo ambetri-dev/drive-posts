@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-26T12:52:55.772583+09:00",
- "count": 8,
+ "count": 9,
  "items": [
   {
    "name": "🖼 카드 · 토요타가 만든 접는 전동 스쿠터",
@@ -79,6 +79,15 @@
    "comment": "영상: Uber 공식 유튜브 「Uber for teens | Uber」 https://www.youtube.com/watch?v=tIPDPEQeJeI\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/cover.jpg"
+  },
+  {
+   "name": "[EN] 🎬 릴스 · 우버, 10살 아이 혼자 타는 호출",
+   "job": "EN_1126_3단_우버우버키즈",
+   "kind": "reel",
+   "caption": "Uber began piloting 'Uber Kids', a ride-hailing service that children aged 10 to 12 can ride alone, on November 19.\n\n· The pilot runs in parts of Austin, Nashville and Madison in the US\n· Only a registered guardian can request a ride, and only guardians can set or change the destination\n· A guardian or registered adult must be present when the child gets in and out\n· Drivers are background-checked and highly rated\n· A live streaming feature shows the inside of the car; recorded audio and video are stored encrypted, reviewed only if a safety issue is reported, and deleted after 14 days if nothing happens\n· A pickup PIN code is also part of the safety setup, and Uber plans to check how much the PIN code and live video reassure parents\n\n———\n\nSource: Digital Today\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Uber #Austin #Nashville #Madison\n",
+   "comment": "Video: Uber on YouTube, “Uber for teens | Uber” https://www.youtube.com/watch?v=tIPDPEQeJeI\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/cover.jpg"
   }
  ],
  "by_name": {
@@ -159,6 +168,15 @@
    "comment": "영상: Uber 공식 유튜브 「Uber for teens | Uber」 https://www.youtube.com/watch?v=tIPDPEQeJeI\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/cover.jpg"
+  },
+  "[EN] 🎬 릴스 · 우버, 10살 아이 혼자 타는 호출": {
+   "name": "[EN] 🎬 릴스 · 우버, 10살 아이 혼자 타는 호출",
+   "job": "EN_1126_3단_우버우버키즈",
+   "kind": "reel",
+   "caption": "Uber began piloting 'Uber Kids', a ride-hailing service that children aged 10 to 12 can ride alone, on November 19.\n\n· The pilot runs in parts of Austin, Nashville and Madison in the US\n· Only a registered guardian can request a ride, and only guardians can set or change the destination\n· A guardian or registered adult must be present when the child gets in and out\n· Drivers are background-checked and highly rated\n· A live streaming feature shows the inside of the car; recorded audio and video are stored encrypted, reviewed only if a safety issue is reported, and deleted after 14 days if nothing happens\n· A pickup PIN code is also part of the safety setup, and Uber plans to check how much the PIN code and live video reassure parents\n\n———\n\nSource: Digital Today\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Uber #Austin #Nashville #Madison\n",
+   "comment": "Video: Uber on YouTube, “Uber for teens | Uber” https://www.youtube.com/watch?v=tIPDPEQeJeI\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/cover.jpg"
   }
  }
 }
