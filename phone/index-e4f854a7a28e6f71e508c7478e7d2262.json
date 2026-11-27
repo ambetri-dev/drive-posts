@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26T12:56:40.728255+09:00",
- "count": 7,
+ "updated_at": "2026-11-27T10:43:08.216291+09:00",
+ "count": 8,
  "items": [
   {
    "name": "🖼 카드 · 이미 탑재된 기능에 구독료 금지",
@@ -68,6 +68,15 @@
    "comment": "Video: Uber on YouTube, “Uber for teens | Uber” https://www.youtube.com/watch?v=tIPDPEQeJeI\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/cover.jpg"
+  },
+  {
+   "name": "🎬 릴스 · 테슬라 유럽 승인 또 미뤄졌다",
+   "job": "1127_3단_테슬라",
+   "kind": "reel",
+   "caption": "테슬라 보조주행의 EU 역내 확대 승인 논의가 12월 15일로 연기됐습니다.\n\n· 당초 12월 1일 예정이던 자동차기술위원회(TCMV) 회의가 다시 미뤄졌고, 연기 이유는 공개되지 않았습니다\n· 네덜란드가 4월 처음 승인한 뒤 위원회는 두 차례 회의를 열었지만 표결은 아직 하지 않았습니다\n· EU 전체 승인에는 27개 회원국 중 최소 15개국 찬성과 함께 찬성국 인구가 EU 전체의 65% 이상이어야 합니다\n· 네덜란드와 이탈리아 등 12개국이 자국 내 사용을 허용했지만, 이들 인구는 EU 전체의 약 28.7%에 그칩니다\n· EU 차원 승인이 거부되면 각국이 이미 발급한 개별 허가도 무효가 될 수 있습니다\n· 테슬라는 유럽 규제당국의 문제 제기로 FSD 명칭을 테슬라 보조주행으로 바꿨고, 일론 머스크는 운전대·페달 없는 6~7인승 모델Y 자율주행 버전을 개발할 계획이라고 말했습니다\n· 25일 미국 증시에서 테슬라 주가는 약 6% 하락했고, 스페이스X 주가는 장 초반 8% 하락했습니다\n\n———\n\n출처: 디지털투데이\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #테슬라 #자율주행 #FSD #모델Y\n",
+   "comment": "영상: 테슬라 공식 유튜브 「Designing the New Model Y Performance」 https://www.youtube.com/watch?v=DYcNfFeRPIk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
   }
  ],
  "by_name": {
@@ -137,6 +146,15 @@
    "comment": "Video: Uber on YouTube, “Uber for teens | Uber” https://www.youtube.com/watch?v=tIPDPEQeJeI\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1126_3%EB%8B%A8_%EC%9A%B0%EB%B2%84%EC%9A%B0%EB%B2%84%ED%82%A4%EC%A6%88/cover.jpg"
+  },
+  "🎬 릴스 · 테슬라 유럽 승인 또 미뤄졌다": {
+   "name": "🎬 릴스 · 테슬라 유럽 승인 또 미뤄졌다",
+   "job": "1127_3단_테슬라",
+   "kind": "reel",
+   "caption": "테슬라 보조주행의 EU 역내 확대 승인 논의가 12월 15일로 연기됐습니다.\n\n· 당초 12월 1일 예정이던 자동차기술위원회(TCMV) 회의가 다시 미뤄졌고, 연기 이유는 공개되지 않았습니다\n· 네덜란드가 4월 처음 승인한 뒤 위원회는 두 차례 회의를 열었지만 표결은 아직 하지 않았습니다\n· EU 전체 승인에는 27개 회원국 중 최소 15개국 찬성과 함께 찬성국 인구가 EU 전체의 65% 이상이어야 합니다\n· 네덜란드와 이탈리아 등 12개국이 자국 내 사용을 허용했지만, 이들 인구는 EU 전체의 약 28.7%에 그칩니다\n· EU 차원 승인이 거부되면 각국이 이미 발급한 개별 허가도 무효가 될 수 있습니다\n· 테슬라는 유럽 규제당국의 문제 제기로 FSD 명칭을 테슬라 보조주행으로 바꿨고, 일론 머스크는 운전대·페달 없는 6~7인승 모델Y 자율주행 버전을 개발할 계획이라고 말했습니다\n· 25일 미국 증시에서 테슬라 주가는 약 6% 하락했고, 스페이스X 주가는 장 초반 8% 하락했습니다\n\n———\n\n출처: 디지털투데이\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 차량 관련 소식을 쉽고 빠르게\n@d.rive_inc\n\n#자동차뉴스 #테슬라 #자율주행 #FSD #모델Y\n",
+   "comment": "영상: 테슬라 공식 유튜브 「Designing the New Model Y Performance」 https://www.youtube.com/watch?v=DYcNfFeRPIk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
   }
  }
 }
