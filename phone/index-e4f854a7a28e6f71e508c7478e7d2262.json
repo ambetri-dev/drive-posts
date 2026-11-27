@@ -1,18 +1,7 @@
 {
  "updated_at": "2026-11-27T10:43:08.216291+09:00",
- "count": 8,
+ "count": 7,
  "items": [
-  {
-   "name": "[EN] 🖼 카드 · 이미 탑재된 기능에 구독료 금지",
-   "job": "EN_1125_3단_뉴욕주",
-   "kind": "card",
-   "caption": "New York State is banning separate subscription fees for hardware features already installed in a car at the time of purchase.\n\n· Governor Kathy Hochul signed the bill (S.9348A/A.10411A) on the 23rd, and it is set to take effect on February 21, 2027, 90 days after enactment\n· Violations carry a civil penalty of up to $250 (about KRW 336,000) per sale and per violation\n· Heated seats and remote start using a physical smart key are typical examples\n· Driver assistance and automated driving, Wi-Fi, satellite radio and navigation updates are exempt, so Tesla can keep charging for FSD subscriptions\n· Tesla's $2,000 (about KRW 2.689 million) Acceleration Boost is a one-time purchase, so it is unclear whether the law applies\n· BMW once offered heated seat subscriptions in some countries for around $18 (about KRW 24,200) a month, then withdrew them after customer backlash\n\n———\n\nSource: Digital Today\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Tesla #BMW #FSD #cars\n",
-   "card_01": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_01.jpg",
-   "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_02.jpg",
-   "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_03.jpg",
-   "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_04.jpg",
-   "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_05.jpg"
-  },
   {
    "name": "🎬 릴스 · 현대차 아이오닉 3 올해의 소형차 선정",
    "job": "1126_3단_현대차아이오닉3",
@@ -78,17 +67,6 @@
   }
  ],
  "by_name": {
-  "[EN] 🖼 카드 · 이미 탑재된 기능에 구독료 금지": {
-   "name": "[EN] 🖼 카드 · 이미 탑재된 기능에 구독료 금지",
-   "job": "EN_1125_3단_뉴욕주",
-   "kind": "card",
-   "caption": "New York State is banning separate subscription fees for hardware features already installed in a car at the time of purchase.\n\n· Governor Kathy Hochul signed the bill (S.9348A/A.10411A) on the 23rd, and it is set to take effect on February 21, 2027, 90 days after enactment\n· Violations carry a civil penalty of up to $250 (about KRW 336,000) per sale and per violation\n· Heated seats and remote start using a physical smart key are typical examples\n· Driver assistance and automated driving, Wi-Fi, satellite radio and navigation updates are exempt, so Tesla can keep charging for FSD subscriptions\n· Tesla's $2,000 (about KRW 2.689 million) Acceleration Boost is a one-time purchase, so it is unclear whether the law applies\n· BMW once offered heated seat subscriptions in some countries for around $18 (about KRW 24,200) a month, then withdrew them after customer backlash\n\n———\n\nSource: Digital Today\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Tesla #BMW #FSD #cars\n",
-   "card_01": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_01.jpg",
-   "card_02": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_02.jpg",
-   "card_03": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_03.jpg",
-   "card_04": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_04.jpg",
-   "card_05": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1125_3%EB%8B%A8_%EB%89%B4%EC%9A%95%EC%A3%BC/card_05.jpg"
-  },
   "🎬 릴스 · 현대차 아이오닉 3 올해의 소형차 선정": {
    "name": "🎬 릴스 · 현대차 아이오닉 3 올해의 소형차 선정",
    "job": "1126_3단_현대차아이오닉3",
