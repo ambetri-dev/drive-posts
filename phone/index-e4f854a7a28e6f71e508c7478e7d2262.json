@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-27T10:43:08.216291+09:00",
- "count": 8,
+ "count": 9,
  "items": [
   {
    "name": "🖼 카드 · 이미 탑재된 기능에 구독료 금지",
@@ -77,6 +77,15 @@
    "comment": "영상: 테슬라 공식 유튜브 「Designing the New Model Y Performance」 https://www.youtube.com/watch?v=DYcNfFeRPIk\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
+  },
+  {
+   "name": "[EN] 🎬 릴스 · 테슬라 유럽 승인 또 미뤄졌다",
+   "job": "EN_1127_3단_테슬라",
+   "kind": "reel",
+   "caption": "Talks on approving Tesla's driver-assistance system across the EU have been pushed back to December 15.\n\n· The Technical Committee on Motor Vehicles (TCMV) meeting planned for December 1 was postponed again with no reason given, and the committee has held two meetings since the Netherlands first approved the system in April but has not voted yet\n· EU-wide approval needs at least 15 of the 27 member states in favor, and those countries must make up 65% or more of the EU population\n· 12 countries, including the Netherlands and Italy, allow its use, but their combined population is only about 28.7% of the EU total\n· If EU-level approval is rejected, permits already issued by individual countries could become invalid\n· Tesla renamed FSD to Tesla Assisted Driving after European regulators raised concerns, and Elon Musk said he plans to develop a 6-7 seat self-driving Model Y with no steering wheel or pedals\n· On the 25th in US trading, Tesla shares fell about 6%, while SpaceX shares fell 8% early in the session\n\n———\n\nSource: Digital Today\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Tesla #FSD #TCMV #EU\n",
+   "comment": "Video: 테슬라 on YouTube, “Designing the New Model Y Performance” https://www.youtube.com/watch?v=DYcNfFeRPIk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
   }
  ],
  "by_name": {
@@ -155,6 +164,15 @@
    "comment": "영상: 테슬라 공식 유튜브 「Designing the New Model Y Performance」 https://www.youtube.com/watch?v=DYcNfFeRPIk\n",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
+  },
+  "[EN] 🎬 릴스 · 테슬라 유럽 승인 또 미뤄졌다": {
+   "name": "[EN] 🎬 릴스 · 테슬라 유럽 승인 또 미뤄졌다",
+   "job": "EN_1127_3단_테슬라",
+   "kind": "reel",
+   "caption": "Talks on approving Tesla's driver-assistance system across the EU have been pushed back to December 15.\n\n· The Technical Committee on Motor Vehicles (TCMV) meeting planned for December 1 was postponed again with no reason given, and the committee has held two meetings since the Netherlands first approved the system in April but has not voted yet\n· EU-wide approval needs at least 15 of the 27 member states in favor, and those countries must make up 65% or more of the EU population\n· 12 countries, including the Netherlands and Italy, allow its use, but their combined population is only about 28.7% of the EU total\n· If EU-level approval is rejected, permits already issued by individual countries could become invalid\n· Tesla renamed FSD to Tesla Assisted Driving after European regulators raised concerns, and Elon Musk said he plans to develop a 6-7 seat self-driving Model Y with no steering wheel or pedals\n· On the 25th in US trading, Tesla shares fell about 6%, while SpaceX shares fell 8% early in the session\n\n———\n\nSource: Digital Today\n\n———\n\n𝗗,𝗥𝗜𝗩𝗘 Korean car news, made simple\n@d.rive_inc_global\n\n#carnews #Tesla #FSD #TCMV #EU\n",
+   "comment": "Video: 테슬라 on YouTube, “Designing the New Model Y Performance” https://www.youtube.com/watch?v=DYcNfFeRPIk\n",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/drive-posts/main/queue/EN_1127_3%EB%8B%A8_%ED%85%8C%EC%8A%AC%EB%9D%BC/cover.jpg"
   }
  }
 }
